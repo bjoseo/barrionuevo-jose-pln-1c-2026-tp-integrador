@@ -4,6 +4,10 @@ Repositorio TP PLN 1C-2026 para Entrega del Trabajo Integrador
 Asistente RAG Local: Sostenibilidad e IA en América Latina
 Proyecto Integrador — Laboratorio de PLN: Analítica, Textos y Cultura (2026) Autor original en notebook: Matías Barreto — IFTS24
 
+RAG de IMPACTO ECONÓMICO DE LA INTELIGENCIA ARTIFICIAL EN AMÉRICA LATINA Juan Jung Raúl Katz Transformación tecnológica y rezago en materia de inversión y capacidades laborales
+
+ Documentos: informe CENIA CEPAL 2025.pdf, Informe CEPAL 2025.pdf
+ 
 Este repositorio contiene un pipeline completo de Retrieval-Augmented Generation (RAG) diseñado para ejecutarse de forma 100% local. El sistema permite consultar documentos técnicos e informes (como los de la CEPAL) sobre sostenibilidad, transición energética e Inteligencia Artificial en América Latina.
 
 La aplicación detecta automáticamente el hardware disponible (CPU, GPU CUDA o Apple Silicon) para optimizar la inferencia del modelo de lenguaje, garantizando privacidad total y eficiencia en la ejecución.
